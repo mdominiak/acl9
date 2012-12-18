@@ -1,7 +1,1 @@
-*.sqlite3
-*.html
-pkg
-*.sw?
-*.log
-.yardoc
-doc
+.rvmrc
